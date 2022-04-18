@@ -7,7 +7,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/grishinsana/goftx/models"
+	"github.com/koioannis/goftx/models"
 )
 
 const (

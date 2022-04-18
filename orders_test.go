@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/grishinsana/goftx/models"
+	"github.com/koioannis/goftx/models"
 )
 
 func TestOrders_GetOpenOrders(t *testing.T) {

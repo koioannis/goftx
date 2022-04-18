@@ -3,7 +3,7 @@ FTX exchange golang library
 
 ### Install
 ```shell script
-go get github.com/grishinsana/goftx
+go get github.com/koioannis/goftx
 ```
 
 ### Usage
